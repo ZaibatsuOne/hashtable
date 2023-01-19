@@ -1,0 +1,147 @@
+hash = 65
+hash = 263
+hash = 66
+hash = 261
+hash = 65
+hash = 266
+hash = 65
+hash = 260
+hash = 899
+hash = 1487
+hash = 1569
+hash = 1782
+hash = 2520
+hash = 3017
+hash = 3101
+hash = 3347
+hash = 3986
+hash = 4574
+hash = 4656
+hash = 4869
+hash = 5607
+hash = 6195
+hash = 6279
+hash = 6525
+hash = 7281
+hash = 7855
+hash = 7944
+hash = 8196
+hash = 8934
+hash = 66
+hash = 270
+hash = 1017
+hash = 1507
+hash = 1577
+hash = 1826
+hash = 2411
+hash = 2887
+hash = 2991
+hash = 3303
+hash = 3933
+hash = 4409
+hash = 4477
+hash = 4726
+hash = 5311
+hash = 5801
+hash = 5869
+hash = 6073
+hash = 6712
+hash = 7167
+hash = 66
+hash = 279
+hash = 891
+hash = 1472
+hash = 1542
+hash = 1755
+hash = 2367
+hash = 2948
+hash = 3018
+hash = 3231
+hash = 3843
+hash = 4424
+hash = 4494
+hash = 4743
+hash = 5328
+hash = 66
+hash = 219
+hash = 687
+hash = 1044
+hash = 1094
+hash = 1343
+hash = 1955
+hash = 2445
+hash = 2515
+hash = 2719
+hash = 3466
+hash = 3942
+hash = 4025
+hash = 4235
+hash = 4820
+hash = 66
+hash = 366
+hash = 1284
+hash = 2089
+hash = 2191
+hash = 2482
+hash = 3382
+hash = 4187
+hash = 4289
+hash = 4442
+hash = 4892
+hash = 5256
+hash = 5321
+hash = 66
+hash = 315
+hash = 1215
+hash = 1796
+hash = 1861
+hash = 2065
+hash = 3100
+hash = 3800
+hash = 3900
+hash = 4245
+hash = 5163
+hash = 5513
+hash = 5564
+hash = 5759
+=======================
+Индекс: 0
+Содержимое: B3432SDFFDSDSFA
+Кол-во: 1
+=======================
+Индекс: 1
+Содержимое: BA
+Кол-во: 2
+=======================
+Индекс: 2
+Содержимое: пусто
+Кол-во: 0
+=======================
+Индекс: 3
+Содержимое: AB
+Кол-во: 1
+=======================
+Индекс: 4
+Содержимое: AAGTRGRGTRGTRGRTTRTRYTR
+Кол-во: 1
+=======================
+Индекс: 5
+Содержимое: пусто
+Кол-во: 0
+=======================
+Индекс: 6
+Содержимое: AC
+Кол-во: 1
+=======================
+Индекс: 7
+Содержимое: BDSFFSADhhFDDSAFDDGA
+Кол-во: 1
+=======================
+Индекс: 8
+Содержимое: BGDSFGDSFGDSFSA
+Кол-во: 1
+=======================
+Индекс: 9
+Содержимое: BSdSADsddsf23A
+Кол-во: 1
+Prostoe
